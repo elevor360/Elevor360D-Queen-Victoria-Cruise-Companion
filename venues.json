@@ -2,151 +2,199 @@
   {
     "name": "Britannia Restaurant",
     "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Main dining for Britannia guests."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Main restaurant for Britannia stateroom guests."
   },
   {
     "name": "Britannia Club Restaurant",
     "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
+    "deck": "See official Queen Victoria deck plan",
     "description": "Dining for Britannia Club guests."
   },
   {
-    "name": "Princess Grill",
+    "name": "Princess Grill Restaurant",
     "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Restaurant for eligible Princess Grill guests."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Dining for eligible Princess Grill guests."
   },
   {
-    "name": "Queens Grill",
+    "name": "Queens Grill Restaurant",
     "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Restaurant for eligible Queens Grill guests."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Dining for eligible Queens Grill guests."
   },
   {
-    "name": "Artisans’ Foodhall",
+    "name": "Lido Restaurant",
     "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Casual foodhall with varied meal choices."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Casual buffet dining and selected alternative dining."
   },
   {
-    "name": "Aji Wa",
+    "name": "Steakhouse at The Verandah",
     "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Asian-inspired speciality dining; reservations or charges may apply."
-  },
-  {
-    "name": "Aranya",
-    "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Indian-inspired speciality dining; reservations or charges may apply."
-  },
-  {
-    "name": "Tramonto",
-    "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Mediterranean-inspired evening dining."
-  },
-  {
-    "name": "Sir Samuel’s Steakhouse & Grill",
-    "category": "Dining",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Steakhouse and seafood speciality dining."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Speciality steakhouse; reservations and charges may apply."
   },
   {
     "name": "Golden Lion",
-    "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Pub-style food and drinks."
+    "category": "Dining",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "British pub serving drinks and pub food."
   },
   {
-    "name": "Carinthia Lounge",
-    "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Light bites, wines and lounge seating."
+    "name": "Chart Room",
+    "category": "Dining",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Coffee and light refreshments during selected daytime hours."
   },
   {
     "name": "Commodore Club",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
+    "deck": "See official Queen Victoria deck plan",
     "description": "Observation lounge and cocktails."
   },
   {
     "name": "Chart Room",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
+    "deck": "See official Queen Victoria deck plan",
     "description": "Bar and lounge."
   },
   {
-    "name": "Lobby Bar",
+    "name": "Golden Lion",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Drinks near the ship’s central public areas."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Traditional pub with drinks and entertainment."
   },
   {
-    "name": "Room 1840",
+    "name": "Winter Garden",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Bar; check current onboard offering."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Light-filled lounge with drinks and music."
   },
   {
-    "name": "Sky Bar",
+    "name": "Yacht Club",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Outdoor drinks and views."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Night-time music and dancing."
+  },
+  {
+    "name": "Midships Bar",
+    "category": "Bars",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Central bar near the Grand Lobby."
+  },
+  {
+    "name": "Churchill’s Cigar Lounge",
+    "category": "Bars",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Cigar lounge; check current policies."
   },
   {
     "name": "Pavilion Bar",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Drinks near The Pavilion."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Poolside drinks; check opening times."
   },
   {
-    "name": "Panorama Pool Club Bar",
+    "name": "Grill Suites Lounge",
     "category": "Bars",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Poolside drinks and relaxation."
-  },
-  {
-    "name": "Bright Lights Society",
-    "category": "Entertainment",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Intimate performance venue and late-night entertainment."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Lounge for eligible Grill Suites guests."
   },
   {
     "name": "Royal Court Theatre",
     "category": "Entertainment",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Live theatre performances and shows."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Live shows and performances."
   },
   {
     "name": "Queens Room",
     "category": "Entertainment",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Dancing, afternoon tea and social events."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Ballroom, afternoon tea and social events."
   },
   {
-    "name": "The Pavilion",
+    "name": "Yacht Club",
     "category": "Entertainment",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Covered pool and event space; programming varies."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Evening music and dancing."
   },
   {
-    "name": "Library",
-    "category": "Facilities",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Books and reading space."
+    "name": "Golden Lion",
+    "category": "Entertainment",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Quizzes, music and social activities."
+  },
+  {
+    "name": "Casino",
+    "category": "Entertainment",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Gaming; age restrictions and opening hours apply."
   },
   {
     "name": "Mareel Wellness & Beauty",
     "category": "Facilities",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Spa and treatments; charges may apply."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Spa and salon; treatments may carry a charge."
   },
   {
-    "name": "Pavilion Wellness Studio",
+    "name": "Fitness Centre",
     "category": "Facilities",
-    "deck": "See official Queen Anne deck plan",
-    "description": "Wellness sessions; check availability."
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Gym and exercise facilities."
+  },
+  {
+    "name": "Library",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Books and quiet reading space."
+  },
+  {
+    "name": "Lido Pool",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Outdoor swimming pool."
+  },
+  {
+    "name": "Pavilion Pool",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Outdoor pool area."
+  },
+  {
+    "name": "Sports Deck",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Outdoor activities and games."
+  },
+  {
+    "name": "Royal Arcade",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Onboard shopping."
+  },
+  {
+    "name": "Grand Lobby",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Central public area and guest services."
+  },
+  {
+    "name": "Medical Centre",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Onboard medical assistance; charges may apply."
+  },
+  {
+    "name": "Purser’s Office",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "Guest services and assistance."
+  },
+  {
+    "name": "Pavilion Wellness Café",
+    "category": "Facilities",
+    "deck": "See official Queen Victoria deck plan",
+    "description": "New wellness café announced for November 2026 refit; check availability onboard."
   }
 ]

@@ -1,8 +1,6 @@
-Elevor360D Queen Anne Cruise Companion V1
-Based on Queen Mary 2 V1.2 working layout.
-New GitHub repository: Elevor360D-Queen-Anne-Cruise-Companion
-Proposed URL: https://elevor360.github.io/Elevor360D-Queen-Anne-Cruise-Companion/
-Official ship and deck plans: https://www.cunard.com/en-gb/cruise-ships/queen-anne
-Upload all files to repository root, including advertising folders.
-Test installation, ads, venue finder, facilities, share QR, offline and backup/restore after publishing.
-Unofficial independent guide.
+Elevor360D Queen Victoria Cruise Companion V1
+
+Based on working Queen Anne V1 layout.
+Repository: Elevor360D-Queen-Victoria-Cruise-Companion
+Proposed URL: https://elevor360.github.io/Elevor360D-Queen-Victoria-Cruise-Companion/
+Upload all extracted files to GitHub repository root. Keep advertising folder intact. Test QR, install, offline and adverts. Unofficial independent guide.

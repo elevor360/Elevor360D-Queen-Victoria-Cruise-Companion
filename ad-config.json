@@ -1,6 +1,6 @@
 {
   "feedUrl": "advertising/adverts.json",
-  "appId": "Queen Anne-cruise-companion",
+  "appId": "Queen Victoria-cruise-companion",
   "group": "cruise",
   "refreshMinutes": 30
 }
