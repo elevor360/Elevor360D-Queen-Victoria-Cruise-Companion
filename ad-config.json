@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "Queen Anne-cruise-companion",
+  "group": "cruise",
+  "refreshMinutes": 30
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Britannia Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Main dining for Britannia guests."
+  },
+  {
+    "name": "Britannia Club Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Dining for Britannia Club guests."
+  },
+  {
+    "name": "Princess Grill",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Restaurant for eligible Princess Grill guests."
+  },
+  {
+    "name": "Queens Grill",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Restaurant for eligible Queens Grill guests."
+  },
+  {
+    "name": "Artisans’ Foodhall",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Casual foodhall with varied meal choices."
+  },
+  {
+    "name": "Aji Wa",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Asian-inspired speciality dining; reservations or charges may apply."
+  },
+  {
+    "name": "Aranya",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Indian-inspired speciality dining; reservations or charges may apply."
+  },
+  {
+    "name": "Tramonto",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Mediterranean-inspired evening dining."
+  },
+  {
+    "name": "Sir Samuel’s Steakhouse & Grill",
+    "category": "Dining",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Steakhouse and seafood speciality dining."
+  },
+  {
+    "name": "Golden Lion",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Pub-style food and drinks."
+  },
+  {
+    "name": "Carinthia Lounge",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Light bites, wines and lounge seating."
+  },
+  {
+    "name": "Commodore Club",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Observation lounge and cocktails."
+  },
+  {
+    "name": "Chart Room",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Bar and lounge."
+  },
+  {
+    "name": "Lobby Bar",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Drinks near the ship’s central public areas."
+  },
+  {
+    "name": "Room 1840",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Bar; check current onboard offering."
+  },
+  {
+    "name": "Sky Bar",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Outdoor drinks and views."
+  },
+  {
+    "name": "Pavilion Bar",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Drinks near The Pavilion."
+  },
+  {
+    "name": "Panorama Pool Club Bar",
+    "category": "Bars",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Poolside drinks and relaxation."
+  },
+  {
+    "name": "Bright Lights Society",
+    "category": "Entertainment",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Intimate performance venue and late-night entertainment."
+  },
+  {
+    "name": "Royal Court Theatre",
+    "category": "Entertainment",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Live theatre performances and shows."
+  },
+  {
+    "name": "Queens Room",
+    "category": "Entertainment",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Dancing, afternoon tea and social events."
+  },
+  {
+    "name": "The Pavilion",
+    "category": "Entertainment",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Covered pool and event space; programming varies."
+  },
+  {
+    "name": "Library",
+    "category": "Facilities",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Books and reading space."
+  },
+  {
+    "name": "Mareel Wellness & Beauty",
+    "category": "Facilities",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Spa and treatments; charges may apply."
+  },
+  {
+    "name": "Pavilion Wellness Studio",
+    "category": "Facilities",
+    "deck": "See official Queen Anne deck plan",
+    "description": "Wellness sessions; check availability."
+  }
+]
